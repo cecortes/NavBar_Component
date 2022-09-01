@@ -23,6 +23,7 @@
   "homepage": "https://github.com/cecortes/NavBar_Component#readme",
   "dependencies": {
     "boxicons": "^2.1.2",
+    "breakpoints.js": "^1.0.0",
     "jquery": "^3.6.1"
   }
 }
